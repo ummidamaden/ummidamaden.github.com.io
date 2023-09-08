@@ -1,5 +1,5 @@
 body {
-    background-color: #242f44;
+    background-color: #72d783;
     color: white;
       font-family: 'Oswald', sans-serif;
   }
@@ -12,8 +12,8 @@ body {
   h1 {
     font-size: 36px;
     padding: 15px;
-    color: #8c6b48;
-    background-color: white;
+    color:white;
+    background-color: rgb(40, 16, 174);
   }
   
   h2 {
@@ -33,7 +33,7 @@ body {
   }
   
   th {
-    border: 2px solid #8c6b48;
+    border: 2px solid #fbfafb
   }
   
   table {
@@ -42,7 +42,7 @@ body {
   }
   
   td {
-    border: 2px solid #8c6b48;
+    border: 2px solid #fdfbfb;
     width: 300px;
   }
   footer {
@@ -51,13 +51,13 @@ body {
     position: fixed;
     width: 100%;
     bottom: 5px;
-    background-color: #242f44;
+    background-color: #6d1bd8;
     z-index: 5;
   }
   footer h3 {
     display: inline-block;
     font-size: 14px;
-    background-color: #242f44;
+    background-color: #4927a8;
   }
   
   .container {
