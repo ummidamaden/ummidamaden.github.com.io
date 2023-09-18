@@ -1,0 +1,62 @@
+p {
+    color:rgb(96, 35, 162);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+* {
+    font-family: Verdana;
+    background-image: url('https://marketplace.canva.com/EAD2962NKnQ/2/0/1600w/canva-rainbow-gradient-pink-and-purple-virtual-background-_Tcjok-d9b4.jpg');
+}
+
+.green {
+    color:rgb(105, 163, 171);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+[href] {
+    color: rgb(27, 96, 126);
+}
+
+img[src*='fish-divercity'] { height: 50px}
+img[src*='Fish-terrelli'] { height: 100px;}
+
+p:hover {
+    background-color: lime;
+}
+
+h1 {
+    color: rgb(17, 255, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Garamond;
+    font-family: 'Courier New';
+    text-align: center;
+    color:rgb(54, 6, 121);
+    background-color: aquamarine;
+}
+
+.headline {
+    color: rgb(72, 219, 14);
+}
+.menu {
+    color:rgb(123, 192, 192);
+}
+
+.brand {
+    opacity: 0.8;
+}
+
+#intruduction {
+    color:aqua
+}
+
+.main-list li {
+background-color: aqua;
+}
+
+h1.special{
+    color: blueviolet;
+}

@@ -1,0 +1,53 @@
+ p {
+    color: beige;
+ }
+
+ p:hover {
+    background-color: rgb(226, 14, 198);
+ }
+
+ .me {
+    color: blueviolet;
+ }
+
+ [href] {
+    color: rgb(245, 22, 52);
+ }
+
+ .imagine1 {
+   border: 3px solid palevioletred;
+   padding: 10px;
+   border-radius: 4px;
+   margin: 20px;
+ }
+
+ .aboutme {
+   padding: 10px;
+   border: 1px solid palevioletred;
+ }
+
+ .email {
+   visibility: visible;
+ }
+
+ * {
+margin: 0%;
+padding: 0%;
+ }
+
+ body {
+   overflow: scroll;
+ }
+
+ .page {
+   border: 1px solid palevioletred;
+   padding: 10px;
+   margin: 5px;
+ }
+
+ #contact {
+   margin: 5px;
+ }
+
+
+

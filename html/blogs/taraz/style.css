@@ -25,7 +25,7 @@ li a {
 }
 
 li a:hover {
-	background-color: #111;
+	background-color: #e6e608;
 }
 
 h2 a {
@@ -112,4 +112,113 @@ embed {
 	width: 400px;
 	height: 458px;
   padding:15px;
+}
+
+body {
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/210/126/desktop-wallpaper-historical-powerpoint-template-history-backgrounds-design-10-historical-backgrounds.jpg);
+ }
+
+ .main-list li {
+	color: rgb(198, 225, 23);
+ }
+
+ p:hover {
+	background-color: rgb(164, 122, 58);
+ }
+
+ p {
+	color: red;
+	font-size: 18px;
+	font-weight: bold;
+	height: 30px;
+	width: 1400px;
+	border: 3px solid coral;
+	font-family: cursive;
+ }
+
+ h1 {
+	background-color: rgb(253, 157, 14);
+	text-align: center;
+ }
+
+ .menu {
+	opacity: 0.7;
+ }
+
+ h1.special {
+	color: #61510b;
+ }
+
+ img[src*='taraz_at_night-wallpaper-2560x1600'] { height: 450px}
+
+ [href]{
+	color: rgb(210, 240, 41);
+ }
+
+#title {
+	color: #61510b;
+}
+
+.brown {
+	color: brown;
+}
+
+.bold {
+	font-weight:900;
+}
+
+.brand {
+	color: rgb(108, 27, 0);
+	height: 40px;
+	width: 750px;
+}
+
+p.content-header {
+	height: 30px;
+	width: 1243px;
+	border: solid coral;
+	border: 2400px 0px;
+	margin: 18px 0px 30px;
+	padding: 0%;
+	}
+
+.picture {
+	border: 3px solid rgb(108, 86, 8);
+	border-radius: 5px;
+	margin-right: 40px;
+}
+
+.first {
+	height: 90px;
+	width: 1400px;
+	border-radius: 5px;
+}
+
+.post {
+	height: 40px;
+	width: 1518px;
+}
+
+.contact {
+	height: 40px;
+	width: 1518px;
+}
+
+.img-2 {
+	border:3px solid #61510b;
+	border-radius: 5px;
+	margin-bottom: 6px;
+	padding: 17px;
+}
+
+body {
+	overflow: scroll;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+.future {
+	visibility: visible;
 }

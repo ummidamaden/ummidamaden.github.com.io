@@ -113,3 +113,6 @@ embed {
 	height: 458px;
   padding:15px;
 }
+ p {
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
