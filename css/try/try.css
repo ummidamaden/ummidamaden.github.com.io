@@ -44,7 +44,7 @@ body {
   .row {
     min-height: 200px;
     display: flex;
-    flex-wrap: wrap-reverse;
+    flex-wrap: reverse;
     justify-content: space-around;
     align-items: center;
   }
