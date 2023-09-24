@@ -1,0 +1,274 @@
+.sam {
+    width: 170px;
+    height: 70px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: black;
+    padding-left: 10px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+}
+
+.nav {
+    text-decoration: underline;
+    text-align: right;
+    margin-left: 1000px;
+    position: absolute;
+    top: 32px;
+    justify-content: space-around;
+    word-spacing: 15px;
+}
+
+body a {
+    font-size: 30px;
+    color: beige;   
+}
+
+.anar {
+    width: 1320px;
+    height: 700px;
+    margin-left: 100px;
+}
+
+.container {
+    position: relative;
+}
+ 
+.container .text {
+    position: absolute;
+    top: 300px;
+    width: 1430px;
+    height: 55px;
+    color: beige;
+    font-size: 30px;
+    text-align: center;
+    padding-left: 55px;
+    background-color: black;
+}
+
+.container .text2 {
+    background-color: black;
+    position: absolute;
+    width: 1430px;
+    height: 45px;
+    color: beige;
+    font-size: 30px;
+    text-align: center;
+    padding-left: 50px;
+    top:350px
+}
+
+.text3 {
+    margin-left: 620px;
+    color: beige;
+    font-size: 40px;
+    margin-top: 50px;
+    width: 800px;
+    margin-bottom: 0%;
+}
+
+.text4 {
+    margin-left: 555px;
+    color: beige;
+    font-size: 30px;
+    margin-top: 30px;
+    width: 800px;
+}
+
+.container1 {
+    margin-left: 250px;
+    margin-top: 20px;
+    display: flex;
+    padding: 15px;
+    margin-bottom: 0%;
+}
+ 
+.img1 {
+    width: 300px;
+    height: 200px;
+}
+
+.text5 {
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 310px;
+    font-size: 25px;
+    color: beige;
+}
+
+.img2 {
+    width: 300px;
+    height: 200px;
+    margin-left: 40px;
+}
+
+.img3 {
+    width: 300px;
+    height: 200px;
+    margin-left: 40px;
+}
+
+.text6 {
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 665px;
+    font-size: 25px;
+    color: beige;
+}
+
+.text7 {
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 1012px;
+    font-size: 25px;
+    color: beige;
+}
+
+.container2 {
+    margin-left: 400px;
+    margin-top: 40px;
+    display: flex;
+    padding: 15px;
+    margin-bottom: 0%;
+}
+
+.img4 {
+    width: 300px;
+    height: 200px;
+}
+
+.img5 {
+    width: 300px;
+    height: 200px;
+    margin-left: 40px;
+}
+
+.text8 {
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 485px;
+    font-size: 25px;
+    color: beige;
+}
+
+.text9 {
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 805px;
+    font-size: 25px;
+    color: beige;
+}
+
+.container3 {
+    width: 1520px;
+    height: 500px;
+    position: relative;
+    margin-left: 100px;
+    margin-right: 0;
+    margin-top: 100px;
+}
+
+.container3 img {
+    width: 1320px;
+    height: 500px;
+    display: block;
+}
+
+.text10 {
+    position: absolute;
+    top: 80px;
+    left: 580px;
+    font-size: 35px;
+    color: beige;
+    font-weight: bold;
+}
+
+.text11 {
+    width: 280px;
+    height: 230px;
+    color: beige;
+    background-color: black;
+    position: absolute;
+    top: 120px;
+    left: 170px;
+    margin-top: 15px;
+    opacity: 3;
+}
+
+.text12 {
+    width: 280px;
+    height: 230px;
+    color: beige;
+    background-color: black;
+    position: absolute;
+    top: 120px;
+    left: 510px;
+    margin-top: 15px;
+    opacity: 3;
+}
+
+.text13 {
+    width: 280px;
+    height: 230px;
+    color: beige;
+    background-color: black;
+    position: absolute;
+    top: 120px;
+    left: 850px;
+    margin-top: 15px;
+    opacity: 3;
+}
+
+.task5 {
+    padding: 10px;
+    font-size: 24px;
+    font-weight: 120px;
+    text-align: center;
+}
+
+.task1 {
+    padding: 18px;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 30px;
+}
+
+.text14 {
+    font-size: 35px;
+    text-align: center;
+    color: beige;
+    padding: 15px;
+}
+
+h5.text15 {
+    padding: 25px;
+    color: beige;
+    text-align: center;
+    font-weight: bold;
+}
+
+.text16 {
+    text-align: center;
+    color: beige;
+    padding: 5px;
+}
+
+.text17 {
+    color: beige;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 30px;
+    margin-left: 10px;
+}
+
+
+
+
