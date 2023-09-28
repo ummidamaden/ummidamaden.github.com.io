@@ -21,7 +21,7 @@ body {
     text-decoration: underline;
     text-align: right;
     margin-left: 1000px;
-    position: absolute;
+    position: flex;
     top: 32px;
     justify-content: space-around;
     word-spacing: 15px;
@@ -268,7 +268,12 @@ h5.text15 {
     padding: 30px;
     margin-left: 10px;
 }
-
+ 
+.navbar {
+    display: inline-flex;
+    width: 1500px;
+    margin-top: 10px;
+}
 
 
 

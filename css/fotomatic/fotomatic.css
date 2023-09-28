@@ -1,0 +1,224 @@
+* {
+    margin: 0;
+    padding: 0;
+} 
+
+body {
+    background-color: rgb(209, 206, 206);
+    width: 1500px;
+    overflow-x: hidden;
+}
+
+.fotomatic {
+    color: #4A4A4A;
+    font-size: 24px;
+    font-family: Roboto-Mono-Regular;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.nav {
+    color: #4A4A4A;
+    font-size: 20px;
+    font-family: Robota-Regular;
+    line-height: 1.6;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1100px;
+    position: absolute;
+    top: 10px;
+}
+
+.color {
+    color: #4A4A4A;
+    margin-left: 20px;
+}
+
+
+.image11 {
+    width: 1500px;
+    height: 700px;
+    margin-bottom: 50px;
+    margin-right: 0;
+    margin-left: 0;
+    padding: 0%;
+}
+
+.text1 {
+    position: absolute;
+    top: 15px;
+    left: 240px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: aliceblue;
+    padding-bottom: 10px;
+}
+
+.text2 {
+    font-size: 50px;
+    color: aliceblue;
+    position: absolute;
+    top: 60px;
+    left: 120px;
+}
+
+.text3 {
+    font-size: 25px;
+    color: aliceblue;
+    position: absolute;
+    top: 150px;
+    left: 130px;
+    width: 450px;
+    height: 50px;
+}
+
+.text4 {
+    font-size: 35px;
+    color: aliceblue;
+    position: absolute;
+    top: 250px;
+    left: 150px;
+    padding: 8px;
+    background-color: #4A4A4A;
+    border-radius: 10px;
+}
+
+.text {
+background-color: #9DC20A;
+width: 670px;
+height: 370px;
+position: absolute;
+top: 170px;
+left: 100px;
+border-radius: 4px;
+}
+
+.logo {
+    width: 17px;
+    height: 17px;
+    position: absolute;
+    top: 17px;
+    left: 1440px;
+}
+
+.container2 {
+    display: flex;
+    margin: 30px;
+}
+
+.image2 {
+    padding: 20px 20px 160px 20px;
+    background-color: aliceblue;
+    width: 600px;
+    height: 700px;
+    margin-top: 20px;
+    margin-left: 54px;
+}
+
+ .container2 .text6 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #4A4A4A;
+    position: absolute;
+    top: 1600px;
+    left: 200px;
+}
+
+.text7 {
+    font-size: 25px;
+    color: #4A4A4A;
+    position: absolute;
+    top: 1655px;
+    left: 98px;
+}
+
+.container2 .text9 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #4A4A4A;
+    position: absolute;
+    top: 1600px;
+    left: 910px;
+    width: 400px;
+}
+
+.text10 {
+    font-size: 25px;
+    color: #4A4A4A;
+    position: absolute;
+    top: 1655px;
+    left: 805px;
+    width: 650px;
+}
+
+.container3 .text11 {
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.container3 .text12 {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.container3 {
+    background-color: #4A4A4A;
+    width: 1500px;
+    height: 600px;
+    margin-left: 0px;
+}
+
+.container4 {
+    margin-top: 30px;
+    display: flex;
+    margin-left: 130px;
+}
+
+.image3 {
+    width: 300px;
+    height: 400px;
+}
+
+.text13 {
+    font-size: 30px;
+    font-style: italic;
+    margin-left: 300px;
+    color: #4A4A4A;
+    margin-top: 100px;
+}
+
+.container5 .text14 {
+    font-size: 20px;
+    color: azure;
+    margin-top: 40px;
+    text-align: start;
+    width: 2100px;
+    height: 30px;
+}
+
+.container5 {
+    background-color: #4A4A4A;
+}
+
+.container5 .text15 {
+    position: absolute;
+    top: 2530px;
+    left: 1270px;
+    width: 150px;
+    font-size: 20px;
+    color: azure;
+    text-align: end;
+}
+
+.logo1 {
+    position: absolute;
+    width: 55px;
+    height: 24px;
+    left: 1275px;
+    top: 2455px;
+}
+
