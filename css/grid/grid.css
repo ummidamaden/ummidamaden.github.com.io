@@ -114,3 +114,43 @@ footer {
     border-radius: 2px;
     border: 3px solid rgb(96, 137, 173);
 }
+
+.img1 {
+    position: absolute;
+    width: 230px;
+    height: 210px;
+    top: 367px;
+    left: 519px;
+}
+
+.img2 {
+    position: absolute;
+    width: 230px;
+    height: 210px;
+    top: 367px;
+    left: 769px;
+}
+
+.img3 {
+    position: absolute;
+    width: 230px;
+    height: 210px;
+    top: 367px;
+    left: 1022px;
+}
+
+.img4 {
+    position: absolute;
+    width: 660px;
+    height: 210px;
+    top: 120px;
+    left: 552px;
+}
+
+.img5 {
+    position: absolute;
+    width: 660px;
+    height: 120px;
+    top: 615px;
+    left: 552px;
+}
