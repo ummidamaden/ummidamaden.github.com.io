@@ -1,0 +1,419 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    background-color: #7374d4;
+}
+
+h1 {
+    margin-top: 500;
+    margin-left: 300;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    size-adjust: 400px;
+    font-size: 50px;
+}
+
+h1.fixed {
+    margin-top: 130px;
+    margin-left: 220px;
+}
+
+.colour1 {
+    color: blue;
+}
+
+.f_li:hover{
+    color: aliceblue;
+}
+
+p.text1 {
+    border-top: 10px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight:400;
+    margin-top: 20;
+}
+
+p.text2 {
+    font-size: 100%;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 220px;
+    margin-top: 10;
+    padding-top: 0;
+    margin-bottom: 30px;
+}
+
+.wrapper {
+    width: 30%;
+    height: 30%;
+    margin-left: 220px;
+    margin-top: 100;
+}
+
+.image1 {
+    margin-left: 900px;
+    top: -100px;
+    width: 70px;
+    height: 300px;
+}
+
+.image11 {
+    width: 250px;
+    height: 400px;
+}
+
+.image12 {
+    width: 150px;
+    height: 40px;
+    margin-left: 220px;
+    margin-top: 10px;
+}
+
+.image13 {
+    width: 150px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.image14 {
+    width: 150px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.images {
+    float: left;
+    display: table;
+    flex: auto;
+    display: flex;
+    margin-top: 30px;
+}
+
+.image1 {
+    width: 100px;
+    height: 80px;
+    margin-left: 80px;
+    margin-top: 0px;
+    padding: 0%;
+}
+
+.header {
+    margin-top: 10px;
+    padding-right: 10%;
+    padding-left: 9%;
+}
+
+.top-nav {
+    display: flex;
+    align-items: left;
+    justify-content: space-between;
+    padding: 0px 0px 5px;
+    border-bottom: 1px solid #1D1052;
+}
+
+.top-nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 60px;
+    margin-top: 33px;
+    margin-bottom: 0px;
+}
+
+.top-nav ul li a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 15px;
+    margin-top: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+}
+
+.change {
+    width: 100px;
+    height: 80px;
+}
+
+.icon-img {
+    margin-top: 80px;
+    padding-top: 60px;
+    margin-left: 200px;
+}
+
+.lastword {
+    margin-top: 80px;
+    padding-top: 65px;
+    margin-left: 310px;
+    text-align: center;
+}
+
+
+.footer {
+    background-color: aliceblue;
+    margin-top: 50px;
+}
+
+.foooter {
+    position: absolute;
+    display: flex;
+    top: 1670px;
+}
+
+.facebook {
+    width: 38px;
+    height: 35px;
+}
+
+.face-img {
+    margin-top: 160px;
+    margin-left: 300px;
+}
+
+.inst-img {
+    margin-top: 160px;
+    margin-left: 5px;
+}
+
+.vka-img {
+    margin-top: 160px;
+    margin-left: 5px;
+}
+
+.club1 {
+    margin-top: 35px;
+    margin-right: 15px;
+    padding-bottom: 5px;
+    width: 100px;
+    height: 100px; 
+    display: flex;
+    justify-content: center;
+}
+
+.club2 {
+    margin-top: 35px;
+    margin-right: 15px;
+    padding-bottom: 5px;
+    width: 100px;
+    height: 100px; 
+    display: flex;
+    justify-content: center;
+}
+
+.club3 {
+    margin-top: 35px;
+    margin-right: 13px;
+    padding-bottom: 5px;
+    width: 100px;
+    height: 100px; 
+    display: flex;
+    justify-content: center;
+}
+
+.cards-holder {
+    display: flex;
+}
+
+.card-desc {
+    text-align: center;
+    font-size: 19px;
+}
+
+.card-img1 {
+    display: flex;
+    justify-content: center;
+}
+
+.card-img2 {
+    display: flex;
+    justify-content: center;
+}
+
+.card-img3 {
+    display: flex;
+    justify-content: center;
+}
+
+.card-title {
+    display: flex;
+    justify-content: center;
+}
+
+.card-desc {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    z-index: 10;
+    position: absolute;
+    margin-top: 30px;
+}
+
+.cards {
+    margin-top: 535px;
+    position: absolute;
+    margin-left: 85px;
+    height: 700px;
+}
+
+.mock1 {
+    position: absolute;
+    top: 160px;
+    left: 964px;
+}
+
+.mock-img {
+    width: 350px;
+    height: 490px;
+}
+
+.mock2 {
+    position: absolute;
+    top: 120px;
+    left: 850px;
+}
+
+.mock-img2 {
+    width: 350px;
+    height: 490px;
+}
+
+.card1 {
+    background-color: #d3d7e7;
+    width: 430px;
+    height: 270px;
+    border-radius: 30px;
+}
+
+.card2 {
+    margin-left: 25px;
+    background-color: #d3d7e7;
+    width: 430px;
+    border-radius: 30px;
+}
+
+
+.card3 {
+    margin-left: 25px;
+    background-color: #d3d7e7;
+    width: 430px;
+    border-radius: 30px;
+}
+
+.card-title {
+    padding-bottom: 20px;
+    font-size: 25px;
+    font-weight: 600;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifs;
+    color: #1D1052;
+}
+
+.bur {
+    position: absolute;
+    top:730px;
+}
+
+.kokrectangle {
+    width: 1520px;
+    height: 730px;
+}
+
+.p2 {
+    position: absolute;
+    font-size: 22px;
+    font-family: serif;
+    color: #d3d7e7;
+    top: 1120px;
+    text-align: center;
+    margin-left: 650px;
+    width: 800px;
+}
+
+.topic1 {
+    position: absolute;
+    font-family: sans-serif;
+    top: 1040px;
+    margin-left: 940px;
+    color: #d3d7e7;
+    width: 350px;
+}
+
+.interest {
+    margin-top: 1020px;
+    margin-left: 199px;
+}
+
+.size {
+    width: 400px;
+    height: 280px;
+}
+
+.section1 {
+    position: absolute;
+    top: 850px;
+    left: 630px;
+    color: #d3d7e7;
+}
+
+.bur2 {
+    width: 1519px;
+    height: 400px;
+    background-color: #1D1052;
+    margin-top: 60px;
+}
+
+.heading1 {
+    position: absolute;
+    top: 1470px;
+    left: 190px;
+    color: #d3d7e7;
+}
+
+.parag {
+    position: absolute;
+    font-size: 22px;
+    font-family: serif;
+    color: #d3d7e7;
+    padding-top: 200px;
+    left: 201px;
+    text-align: center;
+}
+
+.develope {
+    text-decoration: none;
+    margin-left: 730px;
+    padding-top: 20px;
+
+}
+
+.hidden {
+    opacity: 0;
+    filter: blur(5px);
+    transform: translateX(-100%);
+    transition: all 1s;
+}
+
+.show {
+    opacity: 1;
+    filter: blur(0px);
+    transform: translateX(0);
+
+}
+
+.cards-holder{
+    opacity: 0;
+    transform: translateY(90px);
+    transition: opacity 0.6s ease-out, transform 1.3s ease-out;
+}
+
+.cards-holder.show{
+    opacity: 1;
+    transform: translateY(0);
+
+}
