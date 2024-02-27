@@ -1,0 +1,160 @@
+@font-face {
+    font-family: "XO";
+    src: url(fonts/XO.ttf);
+}
+
+h1 {
+    padding-top: 120px;
+    padding-left: 180px;
+    font:caption;
+    margin: 0%;
+    padding-bottom: 0;
+    font-size:20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h5 {
+    margin: 0%;
+    padding-top: 0;
+    padding-left: 180px;
+}
+
+.image1 {
+    width: 500px;
+    height: 480px;
+    margin: 0%;
+    padding-bottom: 0%;
+}
+
+.topic2 {
+    font-family: 'XO', sans-serif;
+    font-size: 150px;
+    color: pink;
+    position: absolute;
+    top: 440px;
+    left: 140px;
+}
+
+.texts {
+    position: absolute;
+    left: 900px;
+    top: 150px;
+    text-decoration: underline;
+}
+
+.contacts {
+    position: absolute;
+    left: 900px;
+    top: 350px;
+}
+
+.contact {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+
+.todo {
+    font-size:30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    width: 200px;
+}
+
+.take {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.hero-page {
+    height: 800px;
+    width: 1498px;
+    background-color: #EEE6ED;
+    margin: 0%;
+    padding: 0%;
+}
+
+.second-page {
+    width: 1498px;
+    height: 450px;
+    background-color: #ffe3ed;
+    margin: 0%;
+    padding: 0%;
+}
+
+.show {
+    padding-top: 40px;
+    padding-left: 200px;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.parag {
+    padding-left: 200px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 950;
+    position: absolute;
+    left: 800px;
+    top:830px
+}
+
+.explanation {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    position: absolute;
+    left: 850px;
+    top:990px
+}
+
+.button {
+    padding: 10px 100px 10px 100px;
+    border-bottom: 1px;
+    box-shadow: #EEE6ED;
+    border-color: #ffffff;
+    border-radius: 5px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: 920px;
+    top:1130px;
+    text-align: center;
+    text-size-adjust:30px;
+    color: #ffffff;
+    size:30cm;
+}
+
+.wedding {
+    width:400px;
+    height: 200px;
+    padding-left: 200px;
+}
+
+.third-page {
+    background-color: #ffffff;
+    width: 1498px;
+    height: 600px;
+}
+
+
+.title2 {
+    padding-left: 200px;
+    padding-top: 0px;
+    margin: 0%;
+}
+
+.tit2 {
+    padding-left: 200px;
+}
+
+.icon1 {
+    width: 50px;
+    height: 50px;
+    padding-top: 100px;
+    position: relative;
+    padding-left: 175px;
+    padding-bottom: 0;
+    margin: 0;
+}
