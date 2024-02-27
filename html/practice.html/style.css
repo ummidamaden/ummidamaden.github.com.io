@@ -3,6 +3,11 @@
     src: url(fonts/XO.ttf);
 }
 
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
 h1 {
     padding-top: 120px;
     padding-left: 180px;
@@ -24,6 +29,7 @@ h5 {
     height: 480px;
     margin: 0%;
     padding-bottom: 0%;
+
 }
 
 .topic2 {
@@ -31,14 +37,14 @@ h5 {
     font-size: 150px;
     color: pink;
     position: absolute;
-    top: 440px;
+    top: 510px;
     left: 140px;
 }
 
 .texts {
     position: absolute;
     left: 900px;
-    top: 150px;
+    top: 210px;
     text-decoration: underline;
 }
 
@@ -59,11 +65,14 @@ h5 {
     font-family: Arial, Helvetica, sans-serif;
     position: absolute;
     width: 200px;
+    top:185px
 }
 
 .take {
     font-size: 20px;
     font-weight: 900;
+    position: absolute;
+    top: 130px;
 }
 
 .hero-page {
@@ -98,7 +107,7 @@ h5 {
     font-weight: 950;
     position: absolute;
     left: 800px;
-    top:830px
+    top:780px
 }
 
 .explanation {
@@ -107,7 +116,7 @@ h5 {
     font-weight: 300;
     position: absolute;
     left: 850px;
-    top:990px
+    top:960px
 }
 
 .button {
@@ -130,6 +139,7 @@ h5 {
     width:400px;
     height: 200px;
     padding-left: 200px;
+    padding-top: 50px;
 }
 
 .third-page {
@@ -140,21 +150,20 @@ h5 {
 
 
 .title2 {
-    padding-left: 200px;
-    padding-top: 0px;
-    margin: 0%;
+    padding-left: 260px;
+    padding-top: 160px;
 }
 
 .tit2 {
-    padding-left: 200px;
+    padding-left: 260px;
 }
 
 .icon1 {
     width: 50px;
     height: 50px;
-    padding-top: 100px;
-    position: relative;
-    padding-left: 175px;
+    position: absolute;
     padding-bottom: 0;
     margin: 0;
+    top:1400px;
+    left: 200px;
 }
