@@ -1,0 +1,42 @@
+html
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .container {
+            display: flex;
+        }
+        .image {
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="image1.jpg" class="image" alt="Image 1">
+        <p>Text 1</p>
+        <img src="image2.jpg" class="image" alt="Image 2">
+        <p>Text 2</p>
+        <img src="image3.jpg" class="image" alt="Image 3">
+        <p>Text 3</p>
+    </div>
+</body>
+</html>
+
+
+
+<table>
+    <tr>
+        <td><img class="image" src="c:\Users\Админ\Downloads\78dbd3df8b01ea23ab4c81d1e4739315.jpg" alt=""></td>
+        <td>
+            <h1 style="text-decoration: underline; color: blue;">BMW X5 Series</h1>
+            <p>Good car in good conditions</p>
+            <p>City:<b>Aktobe</b>, Type:Sedan, 4xWD</p>
+        </td>
+        <td class="tdu">
+            <th>
+                <h3>for</h3>
+            </th>
+        </td>
+    </tr>
+</table>

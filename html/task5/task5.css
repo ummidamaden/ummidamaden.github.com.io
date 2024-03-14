@@ -1,0 +1,90 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+li {
+    padding: 10px 10px 10px 10px;
+    background-color: grey;
+    display: table-cell;
+    margin-left: 0;
+    width: 100vw;
+    text-align: center;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    font-size: 21px;
+    text-align: center;
+    align-items: center;
+}
+
+li:hover {
+    background-color: red;
+}
+
+p {
+    padding-top: 80px;
+    text-align: center;
+}
+
+.home__page {
+    display: flex;
+    flex-direction: row;
+}
+
+.button12 {
+    padding: 10px 160px 10px 5px;
+    border: 2px solid gray;
+    background-color: white;
+    border-radius: 3px;
+    margin-top: 80px;
+    margin-left: 300px;
+}
+
+.button2 {
+    padding: 10px;
+    border: 2px solid grey;
+    border-radius: 3px;
+    background-color: rgb(220, 215, 215);
+    margin: 80px 0px 0px 5px;
+}
+
+.news__page {
+    border: 2px solid red;
+    width: fit-content;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+
+.button3 {
+    padding: 5px 25px 5px 25px;
+    font-size: 20px;
+    border-radius: 8px 8px 0px 0px;
+    background-color: rgb(150, 150, 227);
+    margin: 0px;
+    border: 2px solid rgb(150, 150, 227);
+    width: 145px;
+}
+
+.rectangle {
+    margin-left: 0px;
+}
+
+.button4 {
+    padding: 5px 25px 5px 25px;
+    font-size: 20px;
+    border-radius: 0px 0px 8px 8px;
+    background-color: white;
+    margin: 0px;
+    text-align: center;
+    border: white;
+    width: 147px;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

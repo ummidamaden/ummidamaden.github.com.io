@@ -1,0 +1,102 @@
+p {
+    padding-top: 75px;
+    text-align: center;
+}
+
+.selling {
+    display: flex;
+    flex-direction: row;
+    border: 3px solid lightskyblue;
+    padding: 10px 10px 0px 10px;
+    width: 700px;
+}
+
+.texts {
+    margin-top: -20px;
+    margin-left: 10px;
+}
+
+h4 {
+    margin-top: -17px;
+}
+
+.price{
+    margin-top: 104px;
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 0px;
+}
+
+.box {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.signs {
+    margin-left: 670px;
+    margin-top: 0%;
+    margin-bottom: 5px;
+    border: 2px solid rgb(183, 181, 181);
+    border-radius: 5px;
+    padding: 1px;
+    width: 45px;
+}
+
+@media screen and (max-width: 1000px) {
+    .box {
+        display: none;
+    }
+
+    h4 {
+        display: none;
+        margin-bottom: 0%;
+    }
+
+    .signs {
+        margin-left: 620px;
+        margin-top: 0%;
+        margin-bottom: 5px;
+        border: 2px solid rgb(183, 181, 181);
+        border-radius: 5px;
+        padding: 1px;
+        width: 45px;
+    }
+
+    .selling {
+        width: 650px;
+    }
+
+    .texts {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .price{
+        margin-top: 20px;
+        font-weight: bold;
+        font-size: 35px;
+        margin-bottom: 0px;
+        margin-left: 300px;
+    }
+
+    h2 {
+        text-align: left;
+    }
+    
+
+    .prices {
+        margin-top: 20px;
+        font-weight: bold;
+        font-size: 35px;
+        margin-bottom: 0px;
+        margin-left: 380px;
+    }
+
+    .pricess {
+        margin-top: 20px;
+        font-weight: bold;
+        font-size: 35px;
+        margin-bottom: 0px;
+        margin-left: 397px;
+    }
+}

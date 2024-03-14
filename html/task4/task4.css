@@ -1,0 +1,55 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.rectangle {
+    background-color: red;
+    color: white;
+}
+
+.page {
+    display: flex;
+    flex-direction: row;
+}
+
+.texts {
+    text-align: center;
+    padding-top: 300px;
+}
+
+h1 {
+    font-size: 95px;
+}
+
+p {
+    padding: 50px;
+    font-size: 40px;
+}
+
+.title {
+    font-weight: bold;
+    margin-left: 150px;
+}
+
+.topic {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.links {
+    margin-top: 30px;
+}
+
+@media screen and (max-width: 700px) {
+    h1 {
+        font-size: 40px;
+    }
+    
+    p {
+        padding: 50px;
+        font-size: 15px;
+    }
+}
+
+

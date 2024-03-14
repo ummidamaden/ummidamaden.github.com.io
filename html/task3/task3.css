@@ -1,0 +1,14 @@
+h2 {
+    border: 3px solid red;
+    width: 27px;
+    border-radius: 15px;
+    padding: 5px red;
+    margin-left: 15px;
+    background-color: red;
+}
+
+.letters {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
